@@ -1,0 +1,34 @@
+.style_model2{
+    margin: 100px auto;
+}
+
+.modelo{
+    text-align: center;
+}
+
+.sobre-1{
+    padding: 20px;
+}
+
+.sumir{
+    display: none;
+}
+
+.desaparece{
+    display: none;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    background-color: #ffbb00;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}

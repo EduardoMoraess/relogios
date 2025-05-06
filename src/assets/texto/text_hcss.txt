@@ -1,0 +1,75 @@
+CSS3 ABAIXO ↓
+
+/*.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:  90px  0 auto;
+}
+.titulo span{
+    font-size: 2rem;
+    color: #fff;
+}
+
+.relogios{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 1.5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.relogio{
+    background-color: aliceblue;
+    width: 20%;
+    padding: 20px;
+}*/
+=============================================================================
+HTML5 ABAIXO ↓
+
+  <!--<section>     
+
+        <div class="titulo">
+            <span>Relogio de luxo</span>
+        </div>
+        <div class="relogios">
+            <div class="relogio">
+                <h2 class="title">ola mundo</h2>
+                <p class="info">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo officia non ipsa fugiat, natus ea pariatur sit, accusamus impedit modi adipisci voluptas voluptatibus id rerum laudantium. Sed cum nihil architecto.
+                </p>
+            </div>
+            <div class="relogio">
+                <h2 class="title">ola mundo</h2>
+                <p class="info">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo officia non ipsa fugiat, natus ea pariatur sit, accusamus impedit modi adipisci voluptas voluptatibus id rerum laudantium. Sed cum nihil architecto.
+                </p>
+            </div>
+            <div class="relogio">
+                <h2 class="title">ola mundo</h2>
+                <p class="info">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo officia non ipsa fugiat, natus ea pariatur sit, accusamus impedit modi adipisci voluptas voluptatibus id rerum laudantium. Sed cum nihil architecto.
+                </p>
+            </div>
+            <div class="relogio">
+                <h2 class="title">ola mundo</h2>
+                <p class="info">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo officia non ipsa fugiat, natus ea pariatur sit, accusamus impedit modi adipisci voluptas voluptatibus id rerum laudantium. Sed cum nihil architecto.
+                </p>
+            </div>
+            <div class="relogio">
+                <h2 class="title">ola mundo</h2>
+                <p class="info">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo officia non ipsa fugiat, natus ea pariatur sit, accusamus impedit modi adipisci voluptas voluptatibus id rerum laudantium. Sed cum nihil architecto.
+                </p>
+            </div>
+            <div class="relogio">
+                <h2 class="title">ola mundo</h2>
+                <p class="info">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo officia non ipsa fugiat, natus ea pariatur sit, accusamus impedit modi adipisci voluptas voluptatibus id rerum laudantium. Sed cum nihil architecto.
+                </p>
+            </div>
+        </div>
+    </section>-->
+=================================================================================

@@ -1,0 +1,79 @@
+@media screen and (max-width: 720px) {
+    body {
+        background-color: #fff;
+    }
+
+    .menu .a {
+        display: none;
+    }
+
+    .apresentacao {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .titulo h1 {
+        color: #5201ff;
+        font-size: 0.5rem;
+    }
+
+    span {
+        font-size: 1rem;
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        margin: 10px auto;
+        width: 165%;
+        padding: 10px;
+    }
+
+    .relogios-style1 {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    header {
+        width: 100%;
+        background-color: #000;
+    }
+
+    .logio .logio1 {
+        display: none;
+    }
+
+    .conteudo {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    span {
+        font-size: 17px;
+    }
+
+    .item-relogio {
+        width: 200px;
+    }
+
+    button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 50px auto;
+
+        padding: 10px 20px;
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        background-color: #ffbb00;
+        border: none;
+        border-radius: 20px;
+        font-weight: bold;
+    }
+}
