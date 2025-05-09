@@ -47,6 +47,12 @@ header {
     color: #000;
 }
 
+.a:hover{
+    border-bottom: 2px solid gold;
+    color: #ffbd08;
+    text-transform: uppercase;
+}
+
 
 /*MAIN*/
 main{
