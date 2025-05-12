@@ -1,56 +1,55 @@
-.relogios-style1{
+.contatos{
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 2px;
     align-items: center;
     justify-content: center;
     margin: auto;
-    width: 90%;
+    
 }
 
-.relogio{
+.contact{
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 10px;
-    gap: 10px;
-    width: 400px;
+    gap: 5px;
+    width: 200px;
     border-radius: 10px;
 }
 
-.item-relogio {
-    width: 300px;
-    border-radius: 10px;
-}
-
-.desciption1{
-    text-decoration: none;
-    background-color: #ffbb00;
-    padding: 20px;
-    border-radius: 20px;
-    color: #000000;
-    font-weight: bold;
-}
-
-.descricao{
-    text-align: center;
-    font-size: 1rem;
-}
-
-ul li{
-    font-size: 1rem;
-}
-
-.sobre-relogio1{
+.conte{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 30px;
-    text-align: center;
-    font-size: 1.2rem;
+    box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    padding: 20px;
 }
 
-.modelos{
-    margin: 50px auto;
+.bxl-whatsapp{
+    font-size: 4rem;
+}
+
+
+.bxl-instagram{
+    color: #dd2a7b ;
+    font-size: 4rem;
+}
+
+.bxl-telegram{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 50%;
+    color: hsl(191, 100%, 50%);
+    font-size: 4rem;
+    margin: auto;
+}
+
+.span{
+    padding: 10px;
+    font-weight: bold;
+}
